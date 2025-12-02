@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammed Hashim PM
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning flutter
+- 🌱 I will become a Flutter Developer
 - 💞️ I’m looking to collaborate on software development...
 
 <!---
